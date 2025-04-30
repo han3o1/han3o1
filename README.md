@@ -1,8 +1,8 @@
-### 👋 Hi there! I'm HanEol
+### 👋 Hi there! I'm Haneol!
 
-🎓 I'm a 3rd-year student majoring in IT Management in SeoulTech and Northumbria univ.
+🎓 I'm a 3rd-year student majoring in IT Management in SeoulTech and Northumbria univ  
 💻 Interested in Frontend Development, and Open Source Projects  
-🌱 Currently working on: PintOS, Web Programming, Algorithm, computer Lanuages, and Data Mining 
+🌱 Currently working on: PintOS, Web Programming, Algorithm, computer Lanuages, and Data Mining  
 📫 Contact: han3o1@gmail.com  
 
 ---
