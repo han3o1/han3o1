@@ -1,4 +1,4 @@
-### 👋 Hi there! I'm Haneol!
+## 👋 Hi there! I'm Haneol!
 
 🎓 I'm a 3rd-year student majoring in IT Management in SeoulTech and Northumbria univ  
 💻 Interested in Frontend Development, and Open Source Projects  
@@ -31,7 +31,7 @@
 
 ---
 
-### 📂 Projects  
+## 📂 Projects  
 - ✨ [IT-MBTI](https://github.com/han3o1/IT-MBTI)  
   > A fun personality test website that matches users with IT jobs. Built with HTML/CSS/JS.
 
@@ -40,5 +40,5 @@
 
 ---
 
-### 📊 Stats  
+## 📊 Stats  
 ![HanEol's GitHub stats](https://github-readme-stats.vercel.app/api?username=han3o1&show_icons=true&theme=default)
